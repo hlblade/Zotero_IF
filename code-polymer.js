@@ -1,4 +1,17 @@
 var impact_factors={
+    "exploration":23.9,
+"seminars in cancer biology": 12.1,      /* :contentReference[oaicite:0]{index=0} */
+"biocybernetics and biomedical engineering": 6.9,      /* :contentReference[oaicite:1]{index=1} */
+"biomedical signal processing and control": 6.8,      /* :contentReference[oaicite:2]{index=2} */
+"computer methods and programs in biomedicine": 4.9,   /* :contentReference[oaicite:3]{index=3} */
+"alexandria engineering journal": 6.2,   /* :contentReference[oaicite:4]{index=4} */
+"computers in biology and medicine": 8.4, /* :contentReference[oaicite:5]{index=5} */
+"image and vision computing": 4.2,       /* :contentReference[oaicite:6]{index=6} */
+"computers and electrical engineering": 5.7,  /* :contentReference[oaicite:7]{index=7} */
+"methodsx": 1.6,                         /* :contentReference[oaicite:8]{index=8} */
+"machine learning with applications":7.5,
+"knowledge-based systems": 7.2,          /* :contentReference[oaicite:9]{index=9} */
+"academic radiology": 3.8,                /* :contentReference[oaicite:10]{index=10} */
 "journal of cosmetic science":0.2,
 "bunseki kagaku":0.2,
 "international journal of nanotechnology":0.3,
@@ -848,7 +861,56 @@ var impact_factors={
 "joule":38.6,
 "science":44.7,
 "cell":45.5,
-"nature":50.5
+"nature":50.5,
+"academic radiology": 3.08,
+"acta informatica pragensia": 1.12,
+"adcaij: advances in distributed computing and artificial intelligence journal": 1.7,
+"advanced ultrasound in diagnosis and therapy": 0.19,
+"applied sciences": 2.5,
+"archives of computational methods in engineering": 11.41,
+"array": 2.3,
+"artificial intelligence review": 8.1,
+"bmc bioinformatics": 2.9,
+"biocybernetics and biomedical engineering": 5.3,
+"biomedical engineering letters": 3.2,
+"biomedical signal processing and control": 3.1,
+"cancers": 4.5,
+"clinical imaging": 1.81,
+"computers in biology and medicine": 7.0,
+"computer methods and programs in biomedicine": 4.9,
+"critical reviews in oncology/hematology": 5.5,
+"diagnostics": 3.0,
+"electronics": 2.6,
+"frontiers in oncology": 3.5,
+"frontiers of medicine": 3.9,
+"ieee access": 3.4,
+"ieee journal of biomedical and health informatics": 7.6,
+"ieee signal processing letters": 3.89,
+"ieee transactions on pattern analysis and machine intelligence": 21.9,
+"intelligent systems with applications": 5.81,
+"international journal of biomedical imaging": 3.3,
+"international journal of computational intelligence systems": 2.5,
+"international journal of imaging systems and technology": 3.0,
+"journal of ambient intelligence and humanized computing": 7.1,
+"journal of healthcare engineering": 3.1,
+"journal of imaging": 2.7,
+"journal of medical imaging": 2.3,
+"journal of sensors": 3.4,
+"medical image analysis": 12.77,
+"medical physics": 3.48,
+"multimedia tools and applications": 4.5,
+"neural networks": 6.0,
+"npj breast cancer": 6.5,
+"physica medica": 3.4,
+"physics in medicine and biology": 3.3,
+"plos one": 3.2,
+"progress in biomedical engineering": 5.0,
+"scientific data": 6.4,
+"scientific reports": 4.3,
+"tomography": 2.2,
+"neurocomputing":5.5,
+"procedia computer science":2.3
+    
 }
 
 var fieldName = "series";
